@@ -1,0 +1,66 @@
+
+g	java:S125%"<This block of commented-out lines of code should be removed.(›¬ÜÀHÎRMAJORZ
+CODE_SMELL
+e	java:S106–"9Replace this use of System.out or System.err by a logger.(ê¾ú®HÏRMAJORZ
+CODE_SMELL
+e	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ñšÔHÐRMAJORZ
+CODE_SMELL
+e	java:S106Ü"9Replace this use of System.out or System.err by a logger.(ê¾ú®HÑRMAJORZ
+CODE_SMELL
+e	java:S106¸"9Replace this use of System.out or System.err by a logger.(ê¾ú®HÒRMAJORZ
+CODE_SMELL
+s
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(µÖð¼ûÿÿÿÿHÓRMAJORZ
+CODE_SMELL
+j	java:S106¥"9Replace this use of System.out or System.err by a logger.(¸ÓúÂûÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+j	java:S106¦"9Replace this use of System.out or System.err by a logger.(¹Þõ»øÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+j	java:S106¯"9Replace this use of System.out or System.err by a logger.(°£Ö‹üÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+e	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ê¾ú®H×RMAJORZ
+CODE_SMELL
+e	java:S106Ü"9Replace this use of System.out or System.err by a logger.(ê¾ú®HØRMAJORZ
+CODE_SMELL
+V
+java:S1905ï")Remove this unnecessary cast to "String".(åŒËHÙRMINORZ
+CODE_SMELL
+‹
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ¹ÐÍÿÿÿÿÿHÛRMINORZ
+CODE_SMELL
+}
+java:S1192˜"MDefine a constant instead of duplicating this literal "accountinput" 3 times.(´â°þHÝRCRITICALZ
+CODE_SMELL
+z
+java:S1192õ"JDefine a constant instead of duplicating this literal "accountId" 5 times.(…ÖŒðHáRCRITICALZ
+CODE_SMELL
+ƒ
+java:S1192÷"NDefine a constant instead of duplicating this literal "createaccount" 4 times.(©ÓÍÚøÿÿÿÿHçRCRITICALZ
+CODE_SMELL
+|
+java:S1192Ã"GDefine a constant instead of duplicating this literal "accmsg" 3 times.(éÓËãùÿÿÿÿHìRCRITICALZ
+CODE_SMELL
+u
+java:S1192h"FDefine a constant instead of duplicating this literal "login" 4 times.(ü€Ø¶HðRCRITICALZ
+CODE_SMELL
+{
+java:S1192î"KDefine a constant instead of duplicating this literal "customerId" 4 times.(ˆœŠ¢HõRCRITICALZ
+CODE_SMELL
+w
+java:S1192Ñ"GDefine a constant instead of duplicating this literal "amount" 3 times.(Â¼‹’HúRCRITICALZ
+CODE_SMELL
+y
+java:S1192Ä"IUse already-defined constant 'EMP' instead of duplicating its value here.(œÓþõHþRCRITICALZ
+CODE_SMELL
+|
+java:S1192’"GDefine a constant instead of duplicating this literal "userId" 5 times.(öëœ²ýÿÿÿÿH„RCRITICALZ
+CODE_SMELL
+v
+java:S1192“"GDefine a constant instead of duplicating this literal "token" 14 times.(’åŠ<HŠRCRITICALZ
+CODE_SMELL
+~
+java:S1192—"IDefine a constant instead of duplicating this literal "customer" 5 times.(Ú„„üÿÿÿÿH™RCRITICALZ
+CODE_SMELL
+i
+java:S2629¹"7Use the built-in formatting to construct this argument.(µÖð¼ûÿÿÿÿHŸRMAJORZ
+CODE_SMELL

@@ -1,0 +1,16 @@
+
+w
+java:S4684="@Replace this persistent entity with a simple POJO or DTO object.(§¡œòøÿÿÿÿH RCRITICALZVULNERABILITY
+w
+java:S4684S"@Replace this persistent entity with a simple POJO or DTO object.(»ÿàüÿÿÿÿH¡RCRITICALZVULNERABILITY
+Z
+java:S1452S"&Remove usage of generic wildcard type.(»ÿàüÿÿÿÿH¢RCRITICALZ
+CODE_SMELL
+i
+java:S1612h"=Replace this lambda with method reference 'createduser::add'.(Ì„ÙğH£RMINORZ
+CODE_SMELL
+Š
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(·“‚ëıÿÿÿÿH¥RMINORZ
+CODE_SMELL
+a
+java:S3655t"7Call "Optional#isPresent()" before accessing the value.(Õ¥‹“şÿÿÿÿH§RMAJORZBUG

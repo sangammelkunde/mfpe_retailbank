@@ -1,0 +1,11 @@
+
+l	java:S125H"<This block of commented-out lines of code should be removed.(Ÿ „¾şÿÿÿÿHÃRMAJORZ
+CODE_SMELL
+g	java:S125L"<This block of commented-out lines of code should be removed.(»¥‡ÂHÄRMAJORZ
+CODE_SMELL
+i
+java:S1128"8Remove this unused import 'javax.persistence.ManyToOne'.(ÇÑ²øÿÿÿÿHÅRMINORZ
+CODE_SMELL
+c
+java:S1128"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;HÇRMINORZ
+CODE_SMELL

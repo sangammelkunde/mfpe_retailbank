@@ -1,0 +1,33 @@
+
+X
+java:S1905M"'Remove this unnecessary cast to "List".(‘ü˜ÅÿÿÿÿÿH±RMINORZ
+CODE_SMELL
+r
+java:S3457Y"AFormat specifiers should be used instead of string concatenation.(î•ßøÿÿÿÿH³RMAJORZ
+CODE_SMELL
+m
+java:S3986o"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(Øó‘®H´RMAJORZBUG
+m
+java:S3457x"AFormat specifiers should be used instead of string concatenation.(àÕïõH¶RMAJORZ
+CODE_SMELL
+n
+java:S3457‚"AFormat specifiers should be used instead of string concatenation.(éØû°H·RMAJORZ
+CODE_SMELL
+c
+java:S1135°"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¸RINFOZ
+CODE_SMELL
+a
+java:S1905´"/Remove this unnecessary cast to "CharSequence".(Èö¬ıÿÿÿÿH¹RMINORZ
+CODE_SMELL
+o
+java:S1155c">Use isEmpty() to check whether the collection is empty or not.(­Ú‹‘ıÿÿÿÿH»RMINORZ
+CODE_SMELL
+
+java:S1488§"`Immediately return this expression instead of assigning it to the temporary variable "accounts".(¶Î¡«H¾RMINORZ
+CODE_SMELL
+h
+java:S2629Y"7Use the built-in formatting to construct this argument.(î•ßøÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+P
+java:S2629`"$Invoke method(s) only conditionally.(ÿÑÔ­HÂRMAJORZ
+CODE_SMELL
